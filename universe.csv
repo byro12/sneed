@@ -95,10 +95,5 @@ TEAM,TRC,South,Wake Forest,WF,75,NCST,,,,,,,
 TEAM,TRC,South,Duke,DUKE,80,UNC,,,,,,, 
 TEAM,TRC,South,North Carolina,UNC,80,DUKE,,,,,,, 
 TEAM,TRC,South,East Carolina,ECU,65,APP,,,,,,, 
-TEAM,TRC,South,Appalachian St,APP,70,ECU,,,,,,, 
-# Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme,,,, # 
-COACH,ALA,Nick Saban,65,90,90,90,90,Pro Style,Conservative,,,, 
-# Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,, # 
-OC,ALA,Mike Locksley,55,90,QB,Deep Pass,,,,,,, # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,, # 
-DC,ALA,Kirby Smart,55,95,LB,Inside Run,,,,,,, # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,, # PLAYER,ALA,QB,Tua Tagovailoa,So,72,200,5,,,,,, # OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4 PLAYER,ALA,QB,Jalen Hurts,Jr,72,200,75,90,100,75,85,95,95 
+TEAM,TRC,South,Appalachian St,APP,70,ECU,,,,,,,  
 END_FILE,,,,,,,,,,,,,
